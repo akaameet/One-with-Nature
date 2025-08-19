@@ -30,6 +30,7 @@ export default function Hero() {
         >
           Discover harmony through music, video, and the beauty of the earth.
         </Motion.p>
+        {/* hello */}
       </div>
     </section>
   );
